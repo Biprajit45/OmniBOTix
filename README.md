@@ -64,7 +64,7 @@ OmniBotix/
 ## 🕶️ Credits
 - UI inspired by cyberpunk and shadcn/ui
 - Icons by [Lucide](https://lucide.dev/)
-- Built with ❤️ by [Your Name/Team]
+- Built with ❤️ by [Biprajit Suklabaidya]
 
 ---
 
